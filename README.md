@@ -1,1 +1,1 @@
-# ai-translator-support
+# AI Translator Support
